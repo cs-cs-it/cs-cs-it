@@ -3,9 +3,11 @@ Project Site
 Computer Secience (cs) Cyber Security (cs) Information Technology (it)
        
                
-          Consulting & Research 
+   Consulting & Research 
 
                 ________________________________________________
+
+Fields 
 
    Cyber Security 
         Organisation & Individual
@@ -21,8 +23,8 @@ Computer Secience (cs) Cyber Security (cs) Information Technology (it)
         Digital Twins
 
    Digital Divide
-
-   Buidling & Construction
+        
+   Building & Construction
         Design
         Management   
         
