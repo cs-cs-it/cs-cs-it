@@ -31,7 +31,7 @@ Fields
                ___________________________________________________
                
 Qualifications
-      Bachelor Science (730) - utas - Completed June 2016
+      Bachelor Science (730) - utas - Completed June 2016  <br>
       Diploma Engineering - USQ - Complete June 2017
       Graduate Diploma CyberSec (2318CS) - CSU - Complete June 2018
       Masters Of InformTion Technology (2812NS) - CSU - Complete June 2021
