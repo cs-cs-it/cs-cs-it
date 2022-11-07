@@ -10,21 +10,25 @@ Computer Secience (cs) Cyber Security (cs) Information Technology (it)
 Fields 
 
    Cyber Security 
+   
         Organisation & Individual
 
    Information Technology  
+   
         Digital Transformation 
         Business data management
         Digital Strategy
         Web 3.0
 
    Industry 4.0
+   
         IoT
         Digital Twins
 
    Digital Divide
         
    Building & Construction
+   
         Design
         Management   
         
