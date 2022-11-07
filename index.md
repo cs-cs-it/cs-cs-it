@@ -31,10 +31,14 @@ Fields
                ___________________________________________________
                
 Qualifications
-      Bachelor Science (730) - utas - Completed June 2016  <br>
+      Bachelor Science (730) - utas - Completed June 2016  
+      
       Diploma Engineering - USQ - Complete June 2017
+      
       Graduate Diploma CyberSec (2318CS) - CSU - Complete June 2018
+      
       Masters Of InformTion Technology (2812NS) - CSU - Complete June 2021
+      
       Carepenter & Joiner - Tasmania TAFE - Completed 1993
     
 Contact 
