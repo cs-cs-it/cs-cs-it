@@ -33,11 +33,11 @@
                
 Qualifications
 
-      Masters Of InformTion Technology (2812NS) - CSU -  June 2021
+      Master InformTion Technology (2812NS) - CSU -  June 2021
       
       Graduate Diploma CyberSec (2318CS) - CSU -  June 2018
       
-      Bachelor Science (730) - utas -  June 2016 
+      Bachelor Science (730) - UTAS -  June 2016 
    
       
       Diploma Engineering - USQ -  June 2017
