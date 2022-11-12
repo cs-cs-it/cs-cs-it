@@ -1,33 +1,30 @@
-Project Site
-
-Computer Secience (cs) Cyber Security (cs) Information Technology (it)
-       
-               
-   Consulting & Research 
+(cs) Computer Secience - (cs) Cyber Security - (it) Information Technology 
 
                 ________________________________________________
+                        Consulting & Research 
+                ________________________________________________
 
-Fields 
-
-   Cyber Security 
+  Cyber Security 
    
         Organisation & Individual
 
-   Information Technology  
+  Information Technology  
    
         Digital Transformation 
         Business data management
         Digital Strategy
         Web 3.0
 
-   Industry 4.0
+  Industry 4.0
    
         IoT
         Digital Twins
 
-   Digital Divide
+  Digital Divide
+  
+        IT Training 
         
-   Building & Construction
+  Building & Construction
    
         Design
         Management   
@@ -35,6 +32,7 @@ Fields
                ___________________________________________________
                
 Qualifications
+
       Bachelor Science (730) - utas - Completed June 2016  
       
       Diploma Engineering - USQ - Complete June 2017
