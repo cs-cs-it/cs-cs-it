@@ -1,6 +1,6 @@
 # cs-cs-it 
 
-(cs) Computer Secience - (cs) Cyber Security - (it) Information Technology
+(cs) Comp. Secience - (cs) CyberSec - (it) Info Tech
 
             ________________________________________________
                     Consulting & Research 
