@@ -3,13 +3,19 @@
   plugins:
      - jekyll-remote-theme # add this line to the plugins list if you already have one
      
-    
-# ######
-     
-# url: "https://example.com" # the base hostname & protocol for your site
-plugins:
-  - jekyll-sitemap
+           # - - - - - - 
 
-# ######
+  # Search Engine Optimization (SEO) Starter Guide # # # # # 
 
-{% raw %}{% seo %}{% endraw %}
+
+  #  Jekyll Sitemap Generator Plugin               # # # # # 
+  url: "https://cs-cs-it.github.io/cs-cs-it/" # the base hostname & protocol for your site
+  plugins:
+    - jekyll-sitemap
+  
+  # Installing Jekyll SEO Tag                      # # # # # 
+  plugins:
+    - jekyll-seo-tag
+
+  # Better discoverability for GitHub Pages sites  # # # # # 
+  {% raw %}{% seo %}{% endraw %}
